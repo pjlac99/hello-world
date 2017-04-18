@@ -1,3 +1,2 @@
 # hello-world
-
-My name is Pedro Antonio Barroso and i like tacos 
+Hello my name is Pedro Barroso 
